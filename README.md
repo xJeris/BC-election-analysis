@@ -49,4 +49,4 @@ The script used to create this analysis of the election could be used to gather 
 
 * A school could remove or ignore the county analysis section and just use the candidate information in order to hold a class president or similar election. Allowing them to see the number and percentage of votes for each candidate, as well as the winner.
 
-    <img src="https://raw.githubusercontent.com/xJeris/BC-election-analysis/main/resources/school.png">
+    <img src="https://raw.githubusercontent.com/xJeris/BC-election-analysis/main/resources/candidate.png">
